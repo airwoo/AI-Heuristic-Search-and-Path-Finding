@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/airwoo4win/Documents/Unity/AI_Assignment3 - Heuristic Search/AI_Assignment3/Assets/Scene1.unity
+  isLoaded: 1
+  isActive: 1

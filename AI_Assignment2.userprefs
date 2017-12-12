@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\output1.txt">
+    <Files>
+      <File FileName="Assets\Scripts\TestBench.cs" Line="47" Column="72" />
+      <File FileName="Assets\Scripts\AStarController.cs" Line="520" Column="4" />
+      <File FileName="Assets\Scripts\TileData.cs" Line="81" Column="32" />
+      <File FileName="Assets\Scripts\MapGeneration.cs" Line="561" Column="5" />
+      <File FileName="Assets\output1.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

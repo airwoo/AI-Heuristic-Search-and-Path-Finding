@@ -1,0 +1,250 @@
+Map: 1 Set: 1
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 2
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 3
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 4
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 5
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 6
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 7
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 8
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 9
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 1 Set: 10
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 1
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 2
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 3
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 4
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 5
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 6
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 7
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 8
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 9
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 2 Set: 10
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 1
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 2
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 3
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 4
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 5
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 6
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 7
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 8
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 9
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 3 Set: 10
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 1
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 2
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 3
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 4
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 5
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 6
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 7
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 8
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 9
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 4 Set: 10
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 1
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 2
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 3
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 4
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 5
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 6
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 7
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 8
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 9
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
+Map: 5 Set: 10
+Popped: 0
+Time: 0
+MaxInFringe: 0
+-----------------------------------------
